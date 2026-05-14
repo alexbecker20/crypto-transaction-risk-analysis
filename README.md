@@ -64,6 +64,12 @@ The project was developed using Python in Google Colab and included the followin
 
 ---
 
+### Transaction Class Distribution
+
+![Transaction Class Distribution](class_distribution_professional.png)
+
+---
+
 ## Tools & Technologies
 
 - Python
@@ -78,6 +84,16 @@ The project was developed using Python in Google Colab and included the followin
 ## Example Investigation
 
 The project identified unknown transactions connected to multiple illicit nodes, demonstrating how graph-based analytics may support AML investigative prioritization.
+
+---
+
+## Example Investigation
+
+The analysis identified unknown transactions connected to multiple illicit nodes, demonstrating how graph-based analytics may support AML investigative prioritization.
+
+### Suspicious Transaction Network Investigation
+
+![Suspicious Network Investigation](professional_network_graph.png)
 
 ---
 
